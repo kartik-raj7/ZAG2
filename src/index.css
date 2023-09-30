@@ -1,0 +1,8 @@
+
+.ant-modal .ant-modal-content {
+  border-radius: 40px;
+  height: 320px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
